@@ -1,0 +1,9 @@
+Name: Aarav Sharma
+
+Skills: Python, SQL, Machine Learning, LangChain, OpenAI API, TensorFlow.
+
+Experience: 3 years as a Data Scientist at TechCorp. Built an end-to-end RAG system using LangChain and Pinecone. Optimized model latency by 40%.
+
+Education: B.E. in Computer Engineering.
+
+Tools: Git, Docker, AWS S3.

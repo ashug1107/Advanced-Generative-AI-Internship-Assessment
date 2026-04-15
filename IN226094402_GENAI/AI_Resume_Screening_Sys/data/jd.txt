@@ -1,0 +1,3 @@
+Role: AI Engineer (Intern/Junior)
+
+Requirements: Strong proficiency in Python and SQL. Experience with Generative AI frameworks like LangChain or LlamaIndex. Knowledge of LLMs and prompt engineering. Ability to deploy models using Docker or AWS. Must have a background in Computer Engineering or related fields.

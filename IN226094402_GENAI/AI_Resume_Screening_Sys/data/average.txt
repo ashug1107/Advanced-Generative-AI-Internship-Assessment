@@ -1,0 +1,9 @@
+Name: Priya Das
+
+Experience: 1.5 years as a Python Developer.
+
+Skills: Python, MySQL, Statistics, Machine Learning (Scikit-Learn).
+
+Tools: VS Code, Jupyter Notebooks.
+
+Note: Interested in transitioning into Generative AI.
